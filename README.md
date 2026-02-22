@@ -70,15 +70,11 @@ Open [http://localhost:5173](http://localhost:5173) for the frontend and [http:/
 | JWT_SECRET   | Secret for signing JWT tokens   |
 | PORT         | Backend server port (optional)  |
 
-## 🧪 Testing
-No tests included at this time. Contributions welcome!
+
 
 ## 🙌 Contributing
 Feel free to open issues or submit pull requests. Maintain a clean commit history and follow conventional commits if possible.
 
-## 📄 License
-This project is licensed under the MIT License.
 
----
 
 *Created for the SunHacks Hackathon project.*
